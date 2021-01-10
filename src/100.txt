@@ -1,30 +1,30 @@
-00 - sauce
-01 - soda
+00 - saw
+01 - tie / tea
 02 - sun
 03 - swim
-04 - Ray
-05 - seal/ law
-06 - jaw
-07 - key
+04 - Ray / ear
+05 - seal / law / owl
+06 - jaw / gay
+07 - key / cow
 08 - UFO
-09 - bee/pig
-10 - toes
+09 - bee
+10 - toes / dash
 11 - dad
-12 - tan
-13 - dam
+12 - tan / tuna
+13 - dam / atom
 14 - deer
 15 - tail
-16 - dish
+16 - dog
 17 - duck
-18 - dove
+18 - TV / dove
 19 - tape
-20 - nose
-21 - net
+20 - nose / NASA
+21 - ant / net / santa
 22 - nun
-23 - nomad
-24 - Nero / number.
+23 - nomad / number
+24 - Nero
 25 - nail
-26 - negro
+26 - negro / wing
 27 - neck
 28 - navy
 29 - napkin
@@ -37,65 +37,65 @@
 36 - Mashed
 37 - Macintosh
 38 - Mafia
-39 - Map
-40 - RoSe / RaZor / ReCipe
-41 - Rat / ReD
+39 - Map / Amoeba
+40 - Horse / Rose / Razor / Recipe
+41 - Rat / Red
 42 - Rain
-43 - Ram
+43 - Ram / Arm
 44 - Rower
-45 - Reel
-46 - Rash / RuGby
-47 - RaCK / RoCK
-48 - Roof / RaVe
+45 - Reel / Rail
+46 - Rug / Rash / Rugby
+47 - Rack / Rock
+48 - Roof / Rave
 49 - Robe / Rope
-50 - LaSsie
+50 - Lassie
 51 - Lady
 52 - Lion / LAN
-53 - Limo
-54 - LoRry
+53 - Limo / Lama
+54 - Lorry
 55 - Lily
-56 - Leach
-57 - Lock
-58 - Leaf / LoVe
+56 - Leg / Leach
+57 - Lock / Lake
+58 - Leaf / Love / Wolf
 59 - Lip
-60 - Chess
-61 - Jet
-62 - Chain
-63 - Jam
+60 - Chess / Goose
+61 - Jet / Goat
+62 - Chain / Gun
+63 - Jam / Game
 64 - Chair
-65 - Jail
-66 - ChaCha / JJ
+65 - Jail / Galaxy
+66 - Gaga / Egg
 67 - Shake
 68 - Chief
 69 - Jeep
-70 - Case / Kazza / CalCium
+70 - Case / Kazza / Cheese
 71 - Cat
-72 - Can
-73 - Comb
+72 - Can / Knee
+73 - Comb / Coma
 74 - Car
-75 - Kale / Coal
-76 - Cash
-77 - Cactus / Coke
-78 - Cave
-79 - Cab
-80 - Face
-81 - Vet / Fat
+75 - Kale / Coal / Cola / Calcium
+76 - Cash / Cage
+77 - Cactus / Coke / Cake
+78 - Cave / Cafe
+79 - Cab / Chip
+80 - shoes
+81 - Vet / Fat / void
 82 - Fan
 83 - Foam
-84 - Fire
+84 - Fire / Fairy
 85 - Foil
-86 - Fish
-87 - Fake
+86 - Fish / Fog
+87 - Face
 88 - Woof-Woof
-89 - FBi / VIP
+89 - FBI / VIP
 90 - Bus
 91 - Bat
 92 - Bun
-93 - Bum
+93 - Bum / Beam
 94 - Bear
 95 - Ball / Pool
-96 - Bag / Beach
-97 - Back
-98 - BeeF
+96 - Bag / Beach / Pig
+97 - PC / back / bike
+98 - Beef
 99 - Baby / Pepsi
-100 - Daisies
+100 - Daisies / stasis / Disease
