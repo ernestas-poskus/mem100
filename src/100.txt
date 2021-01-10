@@ -1,0 +1,101 @@
+00 - sauce
+01 - soda
+02 - sun
+03 - swim
+04 - Ray
+05 - seal/ law
+06 - jaw
+07 - key
+08 - UFO
+09 - bee/pig
+10 - toes
+11 - dad
+12 - tan
+13 - dam
+14 - deer
+15 - tail
+16 - dish
+17 - duck
+18 - dove
+19 - tape
+20 - nose
+21 - net
+22 - nun
+23 - nomad
+24 - Nero / number.
+25 - nail
+26 - negro
+27 - neck
+28 - navy
+29 - napkin
+30 - mouse
+31 - mat
+32 - Monk / Moon
+33 - Mum / Memo
+34 - Mower
+35 - Mole / Mail
+36 - Mashed
+37 - Macintosh
+38 - Mafia
+39 - Map
+40 - RoSe / RaZor / ReCipe
+41 - Rat / ReD
+42 - Rain
+43 - Ram
+44 - Rower
+45 - Reel
+46 - Rash / RuGby
+47 - RaCK / RoCK
+48 - Roof / RaVe
+49 - Robe / Rope
+50 - LaSsie
+51 - Lady
+52 - Lion / LAN
+53 - Limo
+54 - LoRry
+55 - Lily
+56 - Leach
+57 - Lock
+58 - Leaf / LoVe
+59 - Lip
+60 - Chess
+61 - Jet
+62 - Chain
+63 - Jam
+64 - Chair
+65 - Jail
+66 - ChaCha / JJ
+67 - Shake
+68 - Chief
+69 - Jeep
+70 - Case / Kazza / CalCium
+71 - Cat
+72 - Can
+73 - Comb
+74 - Car
+75 - Kale / Coal
+76 - Cash
+77 - Cactus / Coke
+78 - Cave
+79 - Cab
+80 - Face
+81 - Vet / Fat
+82 - Fan
+83 - Foam
+84 - Fire
+85 - Foil
+86 - Fish
+87 - Fake
+88 - Woof-Woof
+89 - FBi / VIP
+90 - Bus
+91 - Bat
+92 - Bun
+93 - Bum
+94 - Bear
+95 - Ball / Pool
+96 - Bag / Beach
+97 - Back
+98 - BeeF
+99 - Baby / Pepsi
+100 - Daisies
