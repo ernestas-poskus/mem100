@@ -6,15 +6,15 @@
 05 - seal / law / owl
 06 - jaw / gay
 07 - key / cow
-08 - UFO
+08 - UFO / Fox
 09 - bee
-10 - toes / dash
+10 - toes
 11 - dad
 12 - tan / tuna
 13 - dam / atom
 14 - deer
 15 - tail
-16 - dog
+16 - dog / dash
 17 - duck
 18 - TV / dove
 19 - tape
@@ -38,14 +38,14 @@
 37 - Macintosh
 38 - Mafia
 39 - Map / Amoeba
-40 - Horse / Rose / Razor / Recipe
+40 - Horse / Rose / Razor
 41 - Rat / Red
 42 - Rain
 43 - Ram / Arm
 44 - Rower
 45 - Reel / Rail
 46 - Rug / Rash / Rugby
-47 - Rack / Rock
+47 - Rack / Rock / Recipe
 48 - Roof / Rave
 49 - Robe / Rope
 50 - Lassie
@@ -58,7 +58,7 @@
 57 - Lock / Lake
 58 - Leaf / Love / Wolf
 59 - Lip
-60 - Chess / Goose
+60 - Chess / Goose / shoes
 61 - Jet / Goat
 62 - Chain / Gun
 63 - Jam / Game
@@ -78,13 +78,13 @@
 77 - Cactus / Coke / Cake
 78 - Cave / Cafe
 79 - Cab / Chip
-80 - shoes
+80 - fuse / hives / visa / vase
 81 - Vet / Fat / void
 82 - Fan
 83 - Foam
 84 - Fire / Fairy
-85 - Foil
-86 - Fish / Fog
+85 - Foil / fool
+86 - Fish / Fog / fisheye
 87 - Face
 88 - Woof-Woof
 89 - FBI / VIP
@@ -92,7 +92,7 @@
 91 - Bat
 92 - Bun
 93 - Bum / Beam
-94 - Bear
+94 - Bear / brain
 95 - Ball / Pool
 96 - Bag / Beach / Pig
 97 - PC / back / bike
