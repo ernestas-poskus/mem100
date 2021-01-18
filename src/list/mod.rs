@@ -38,7 +38,9 @@ impl List {
     pub fn memorize_words(&self, number: usize) -> Words {
         self.major
             .get(&number)
-            .cloned()
             .expect(&format!("memorize_words list [{}] index not found", number))
+            .iter()
+            .map(|word| word.to_lowercase())
+            .collect::<Vec<String>>()
     }
 }
