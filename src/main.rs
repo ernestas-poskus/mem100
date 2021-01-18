@@ -52,9 +52,11 @@ fn main() {
         let mut words = major.memorize_words(number);
         words.shuffle(&mut rng);
 
-        let word = &words[0];
-
-        answer_word(&mut stats, number, word);
+        if rng.gen_bool(1.0 / 3.0) {
+            answer_word(&mut stats, number, &words[0]);
+        } else {
+            answer_number(&mut stats, number, &words);
+        }
         print!("{esc}[2J{esc}[1;1H", esc = 27 as char);
     }
     let stats_output = format!(
@@ -66,6 +68,25 @@ fn main() {
     println!("{}", stats_output);
     if let Err(e) = writeln!(stats_file, "{}", stats_output) {
         eprintln!("Couldn't write to file: {}", e);
+    }
+}
+
+fn answer_number(stats: &mut Stats, number: usize, words: &[String]) {
+    println!("Mnemonic word for number: {}", number);
+    let mut attempt = 0;
+    loop {
+        if words.contains(&input::get_word()) {
+            stats.correct += 1;
+            break;
+        } else {
+            stats.failed += 1;
+            if attempt == 3 {
+                println!("{} == {}", number, words.join(" "));
+                break;
+            }
+            println!("-");
+            attempt += 1;
+        }
     }
 }
 
