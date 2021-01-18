@@ -57,7 +57,6 @@ fn main() {
         } else {
             answer_number(&mut stats, number, &words);
         }
-        print!("{esc}[2J{esc}[1;1H", esc = 27 as char);
     }
     let stats_output = format!(
         "Stats correct {} failed {} elapsed {} minutes",
@@ -77,6 +76,7 @@ fn answer_number(stats: &mut Stats, number: usize, words: &[String]) {
     loop {
         if words.contains(&input::get_word()) {
             stats.correct += 1;
+            print!("{esc}[2J{esc}[1;1H", esc = 27 as char);
             break;
         } else {
             stats.failed += 1;
@@ -96,6 +96,7 @@ fn answer_word(stats: &mut Stats, number: usize, word: &str) {
     loop {
         if input::get_number() == number {
             stats.correct += 1;
+            print!("{esc}[2J{esc}[1;1H", esc = 27 as char);
             break;
         } else {
             stats.failed += 1;
