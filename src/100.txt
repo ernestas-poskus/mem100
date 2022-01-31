@@ -1,13 +1,13 @@
-00 - saw
-01 - tie / tea
+00 - saw / sauce
+01 - tie / tea / soda
 02 - sun
 03 - swim
 04 - Ray / ear
 05 - seal / law / owl
 06 - jaw / gay
-07 - key / cow
-08 - UFO / Fox
-09 - bee
+07 - key / cow / sock
+08 - UFO / Fox / safe
+09 - bee / soap
 10 - toes
 11 - dad
 12 - tan / tuna
@@ -34,8 +34,8 @@
 33 - Mum / Memo
 34 - Mower
 35 - Mole / Mail
-36 - Mashed
-37 - Macintosh
+36 - mesh
+37 - mac
 38 - Mafia
 39 - Map / Amoeba
 40 - Horse / Rose / Razor
@@ -85,14 +85,14 @@
 84 - Fire / Fairy
 85 - Foil / fool
 86 - Fish / Fog / fisheye
-87 - Face
+87 - Face / fake
 88 - Woof-Woof
 89 - FBI / VIP
 90 - Bus
 91 - Bat
 92 - Bun
 93 - Bum / Beam
-94 - Bear / brain
+94 - Bear / brain / bar
 95 - Ball / Pool
 96 - Bag / Beach / Pig
 97 - PC / back / bike
